@@ -1,0 +1,295 @@
+[{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaed"
+  },
+  "data_hora": {
+    "$date": "2015-02-01T10:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58dde"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530d7"
+  },
+  "especialidade_buscada": "Clínica Geral",
+  "valor": 250,
+  "receita": [
+    {
+      "medicamento": "Dipirona",
+      "qtd": "1 cx",
+      "instrucoes": "1 comp de 8/8h"
+    },
+    {
+      "medicamento": "Amoxicilina",
+      "qtd": "1 frasco",
+      "instrucoes": "5ml de 12/12h"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaee"
+  },
+  "data_hora": {
+    "$date": "2016-05-10T11:30:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58ddf"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530d8"
+  },
+  "especialidade_buscada": "Pediatria",
+  "convenio": {
+    "nome": "Unimed",
+    "numero_carteira": "123"
+  },
+  "receita": [
+    {
+      "medicamento": "Paracetamol Gotas",
+      "qtd": "1 frasco",
+      "instrucoes": "20 gotas de 6/6h"
+    },
+    {
+      "medicamento": "Soro Fisiológico",
+      "qtd": "1 frasco",
+      "instrucoes": "Aplicar no nariz 3x ao dia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaef"
+  },
+  "data_hora": {
+    "$date": "2017-01-20T09:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58de0"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530d9"
+  },
+  "especialidade_buscada": "Dermatologia",
+  "valor": 300,
+  "receita": [
+    {
+      "medicamento": "Hidrocortisona",
+      "qtd": "1 bisnaga",
+      "instrucoes": "Aplicar na área afetada 2x ao dia"
+    },
+    {
+      "medicamento": "Protetor Solar FPS 50",
+      "qtd": "1 tubo",
+      "instrucoes": "Usar diariamente"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaf0"
+  },
+  "data_hora": {
+    "$date": "2018-07-15T14:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58de1"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530da"
+  },
+  "especialidade_buscada": "Gastroenterologia",
+  "convenio": {
+    "nome": "Saúde",
+    "numero_carteira": "456"
+  },
+  "receita": [
+    {
+      "medicamento": "Omeprazol",
+      "qtd": "2 cxs",
+      "instrucoes": "1 comp em jejum"
+    },
+    {
+      "medicamento": "Luftal",
+      "qtd": "1 cx",
+      "instrucoes": "1 comp se necessário"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaf1"
+  },
+  "data_hora": {
+    "$date": "2019-11-23T16:20:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58de2"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530db"
+  },
+  "especialidade_buscada": "Ortopedia",
+  "valor": 280,
+  "receita": [
+    {
+      "medicamento": "Torsilax",
+      "qtd": "1 cx",
+      "instrucoes": "1 comp de 12/12h por 5 dias"
+    },
+    {
+      "medicamento": "Gelo",
+      "qtd": "N/A",
+      "instrucoes": "Aplicar no local por 20 min"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaf2"
+  },
+  "data_hora": {
+    "$date": "2020-03-03T08:15:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58de3"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530dc"
+  },
+  "especialidade_buscada": "Cardiologia",
+  "convenio": {
+    "nome": "Bem Viver",
+    "numero_carteira": "789"
+  },
+  "receita": [
+    {
+      "medicamento": "Losartana",
+      "qtd": "3 cxs",
+      "instrucoes": "1 comp pela manhã"
+    },
+    {
+      "medicamento": "AAS Infantil",
+      "qtd": "2 cxs",
+      "instrucoes": "1 comp após almoço"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaf3"
+  },
+  "data_hora": {
+    "$date": "2020-04-18T10:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58de4"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530dd"
+  },
+  "especialidade_buscada": "Neurologia",
+  "valor": 400,
+  "receita": [
+    {
+      "medicamento": "Rivotril",
+      "qtd": "1 cx",
+      "instrucoes": "1 comp antes de dormir"
+    },
+    {
+      "medicamento": "Vitamina B12",
+      "qtd": "1 cx",
+      "instrucoes": "1 comp pela manhã"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaf4"
+  },
+  "data_hora": {
+    "$date": "2020-09-05T15:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58de5"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530de"
+  },
+  "especialidade_buscada": "Clínica Geral",
+  "convenio": {
+    "nome": "Unimed",
+    "numero_carteira": "123"
+  },
+  "receita": [
+    {
+      "medicamento": "Ibuprofeno",
+      "qtd": "1 cx",
+      "instrucoes": "1 comp de 8/8h se dor"
+    },
+    {
+      "medicamento": "Repouso",
+      "qtd": "2 dias",
+      "instrucoes": "Atestado médico"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaf5"
+  },
+  "data_hora": {
+    "$date": "2021-06-30T13:45:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58de6"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530df"
+  },
+  "especialidade_buscada": "Pediatria",
+  "valor": 350,
+  "receita": [
+    {
+      "medicamento": "Prednisolona",
+      "qtd": "1 frasco",
+      "instrucoes": "3ml uma vez ao dia"
+    },
+    {
+      "medicamento": "Nebulização",
+      "qtd": "N/A",
+      "instrucoes": "Fazer com 5ml de soro 3x ao dia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f41c41da117449fabccaf6"
+  },
+  "data_hora": {
+    "$date": "2021-12-12T12:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "68f40fa5f21ca9813cd58de7"
+  },
+  "paciente_id": {
+    "$oid": "68f414dcf9b847bb151530e0"
+  },
+  "especialidade_buscada": "Gastroenterologia",
+  "convenio": {
+    "nome": "Saúde",
+    "numero_carteira": "456"
+  },
+  "receita": [
+    {
+      "medicamento": "Domperidona",
+      "qtd": "1 cx",
+      "instrucoes": "1 comp antes das refeições"
+    },
+    {
+      "medicamento": "Dieta Leve",
+      "qtd": "N/A",
+      "instrucoes": "Evitar gorduras e frituras"
+    }
+  ]
+}]
