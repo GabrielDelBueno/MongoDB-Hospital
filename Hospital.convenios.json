@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "68f40dedab93b20039620372"
+  },
+  "nome": "Unimed",
+  "CNPJ": "12345678000101",
+  "tempo_carencia": 30
+},
+{
+  "_id": {
+    "$oid": "68f40dedab93b20039620373"
+  },
+  "nome": "Saúde",
+  "CNPJ": "23456789000102",
+  "tempo_carencia": 60
+},
+{
+  "_id": {
+    "$oid": "68f40dedab93b20039620374"
+  },
+  "nome": "Bem Viver",
+  "CNPJ": "34567890000103",
+  "tempo_carencia": 90
+}]

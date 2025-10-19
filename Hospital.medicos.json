@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58dde"
+  },
+  "nome": "Dr. Carlos Andrade",
+  "CRM": "SP12345",
+  "especialidades": [
+    "Cardiologia",
+    "Clínica Geral"
+  ],
+  "tipo": "Especialista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58ddf"
+  },
+  "nome": "Dra. Ana Souza",
+  "CRM": "SP67890",
+  "especialidades": [
+    "Pediatria"
+  ],
+  "tipo": "Especialista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de0"
+  },
+  "nome": "Dr. Gabriel Ferreira",
+  "CRM": "SP11223",
+  "especialidades": [
+    "Gastroenterologia"
+  ],
+  "tipo": "Especialista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de1"
+  },
+  "nome": "Dra. Juliana Lima",
+  "CRM": "SP44556",
+  "especialidades": [
+    "Dermatologia",
+    "Clínica Geral"
+  ],
+  "tipo": "Especialista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de2"
+  },
+  "nome": "Dr. Ricardo Borges",
+  "CRM": "SP77889",
+  "especialidades": [
+    "Ortopedia"
+  ],
+  "tipo": "Especialista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de3"
+  },
+  "nome": "Dra. Fernanda Martins",
+  "CRM": "SP99001",
+  "especialidades": [
+    "Neurologia"
+  ],
+  "tipo": "Especialista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de4"
+  },
+  "nome": "Dr. Roberto Gabriel Dias",
+  "CRM": "SP22334",
+  "especialidades": [
+    "Clínica Geral"
+  ],
+  "tipo": "Generalista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de5"
+  },
+  "nome": "Dra. Patrícia Costa",
+  "CRM": "SP55667",
+  "especialidades": [
+    "Clínica Geral"
+  ],
+  "tipo": "Generalista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de6"
+  },
+  "nome": "Dr. Marcos Pereira",
+  "CRM": "SP88990-R",
+  "especialidades": [],
+  "tipo": "Residente"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de7"
+  },
+  "nome": "Dra. Carolina Almeida",
+  "CRM": "SP11234-R",
+  "especialidades": [],
+  "tipo": "Residente"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de8"
+  },
+  "nome": "Dr. Lucas Ribeiro",
+  "CRM": "SP44567",
+  "especialidades": [
+    "Gastroenterologia"
+  ],
+  "tipo": "Especialista"
+},
+{
+  "_id": {
+    "$oid": "68f40fa5f21ca9813cd58de9"
+  },
+  "nome": "Dra. Sofia Gonçalves",
+  "CRM": "SP78901",
+  "especialidades": [
+    "Pediatria",
+    "Clínica Geral"
+  ],
+  "tipo": "Especialista"
+}]

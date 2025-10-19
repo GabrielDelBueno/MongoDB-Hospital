@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "68f416919c356c28b560e63f"
+  },
+  "numero": "101A",
+  "tipo_quarto_id": {
+    "$oid": "68f40e34d24b7d63cc979e0a"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f416919c356c28b560e640"
+  },
+  "numero": "202B",
+  "tipo_quarto_id": {
+    "$oid": "68f40e34d24b7d63cc979e0b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f416919c356c28b560e641"
+  },
+  "numero": "303C",
+  "tipo_quarto_id": {
+    "$oid": "68f40e34d24b7d63cc979e0c"
+  }
+}]

@@ -1,0 +1,197 @@
+[{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530d7"
+  },
+  "nome": "Maria Oliveira",
+  "data_nascimento": {
+    "$date": "1987-11-30T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "87654321009",
+    "RG": "SP123457"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530d8"
+  },
+  "nome": "Paulo Santos",
+  "data_nascimento": {
+    "$date": "1995-02-14T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "98765432100",
+    "RG": "SP123456"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530d9"
+  },
+  "nome": "Ana Clara",
+  "data_nascimento": {
+    "$date": "2015-08-20T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "11122233344",
+    "RG": "SP654321"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530da"
+  },
+  "nome": "João Pedro",
+  "data_nascimento": {
+    "$date": "1980-01-10T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "22233344455",
+    "RG": "SP543210"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530db"
+  },
+  "nome": "Beatriz Lima",
+  "data_nascimento": {
+    "$date": "1990-05-25T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "33344455566",
+    "RG": "SP432109"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530dc"
+  },
+  "nome": "Carlos Eduardo",
+  "data_nascimento": {
+    "$date": "2018-03-15T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "44455566677",
+    "RG": "SP321098"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530dd"
+  },
+  "nome": "Daniela Rocha",
+  "data_nascimento": {
+    "$date": "1975-09-01T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "55566677788",
+    "RG": "SP210987"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530de"
+  },
+  "nome": "Eduardo Costa",
+  "data_nascimento": {
+    "$date": "2005-11-11T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "66677788899",
+    "RG": "SP109876"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530df"
+  },
+  "nome": "Fernanda Dias",
+  "data_nascimento": {
+    "$date": {
+      "$numberLong": "-202780800000"
+    }
+  },
+  "documentos": {
+    "CPF": "77788899900",
+    "RG": "SP098765"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530e0"
+  },
+  "nome": "Gustavo Henrique",
+  "data_nascimento": {
+    "$date": "2020-02-28T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "88899900011",
+    "RG": "SP987654"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530e1"
+  },
+  "nome": "Helena Martins",
+  "data_nascimento": {
+    "$date": "1988-12-19T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "99900011122",
+    "RG": "SP876543"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530e2"
+  },
+  "nome": "Igor Almeida",
+  "data_nascimento": {
+    "$date": "1998-04-03T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "00011122233",
+    "RG": "SP765432"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530e3"
+  },
+  "nome": "Juliana Andrade",
+  "data_nascimento": {
+    "$date": "1992-06-12T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "11122233345",
+    "RG": "SP654321A"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530e4"
+  },
+  "nome": "Lucas Souza",
+  "data_nascimento": {
+    "$date": "2010-10-10T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "22233344456",
+    "RG": "SP543210B"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f414dcf9b847bb151530e5"
+  },
+  "nome": "Mariana Ferreira",
+  "data_nascimento": {
+    "$date": "1985-03-08T00:00:00.000Z"
+  },
+  "documentos": {
+    "CPF": "33344455567",
+    "RG": "SP432109C"
+  }
+}]
